@@ -20,7 +20,7 @@ $ cd ${PROJECT_DIR}
 $ truffle init
 $ truffle unbox MetaCoin
 ```
-参考http://truffleframework.com/docs/advanced/configuration配置truffle.js，比如：
+参考 http://truffleframework.com/docs/advanced/configuration 配置truffle.js，比如：
 ```
 module.exports = {
   networks: {
